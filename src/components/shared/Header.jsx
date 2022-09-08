@@ -19,7 +19,7 @@ const Header = () => {
         <ul className={`header__list ${show? "header__menu-show":""}`}>
           <li className="header__item">
           <NavLink className='header__logo-navlink' to="/">
-        <h1 className="header__logo">e-commerce</h1>
+        <h1 className="header__logo">Ecommer-ce</h1>
       </NavLink>
           </li>
           <li className="header__item">
